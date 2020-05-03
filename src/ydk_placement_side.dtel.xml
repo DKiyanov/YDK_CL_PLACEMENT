@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>YDK_PLACEMENT_SIDE</ROLLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <DOMNAME>YDK_PLACEMENT_SIDE</DOMNAME>
+    <HEADLEN>07</HEADLEN>
+    <SCRLEN1>07</SCRLEN1>
+    <SCRLEN2>07</SCRLEN2>
+    <SCRLEN3>07</SCRLEN3>
+    <DDTEXT>Side</DDTEXT>
+    <REPTEXT>Side</REPTEXT>
+    <SCRTEXT_S>Side</SCRTEXT_S>
+    <SCRTEXT_M>Side</SCRTEXT_M>
+    <SCRTEXT_L>Side</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>R</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>R</DDLANGUAGE>
+     <DDTEXT>Сторона</DDTEXT>
+     <REPTEXT>Сторона</REPTEXT>
+     <SCRTEXT_S>Сторона</SCRTEXT_S>
+     <SCRTEXT_M>Сторона</SCRTEXT_M>
+     <SCRTEXT_L>Сторона</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

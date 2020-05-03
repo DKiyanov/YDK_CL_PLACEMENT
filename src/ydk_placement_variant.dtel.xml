@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>YDK_PLACEMENT_VARIANT</ROLLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <DOMNAME>SLIS_VARI</DOMNAME>
+    <HEADLEN>18</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>18</SCRLEN2>
+    <SCRLEN3>20</SCRLEN3>
+    <DDTEXT>Placement variant</DDTEXT>
+    <REPTEXT>Placement variant</REPTEXT>
+    <SCRTEXT_S>Placement</SCRTEXT_S>
+    <SCRTEXT_M>Placement variant</SCRTEXT_M>
+    <SCRTEXT_L>Placement variant</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>R</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>R</DDLANGUAGE>
+     <DDTEXT>Вариант</DDTEXT>
+     <REPTEXT>Вариант размещения</REPTEXT>
+     <SCRTEXT_S>Вариант</SCRTEXT_S>
+     <SCRTEXT_M>Вариант размещения</SCRTEXT_M>
+     <SCRTEXT_L>Вариант размещения</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
